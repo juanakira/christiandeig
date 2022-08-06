@@ -765,7 +765,7 @@ a:focus, a:hover {
   border: 1px solid #dedede;
   box-shadow: none;
   height: 45px !important;
-  color: #0c0c0c;
+  color: #fff8f8;
   height: 38px;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
@@ -1325,4 +1325,14 @@ a:focus, a:hover {
 p a {
   color: #f0f0f0;
   text-decoration: underline;
+}
+
+
+/* Bigger Icons */
+.tf-ion-social-instagram:before {
+  font-size: 2em;
+}
+
+.tf-ion-social-linkedin:before {
+  font-size: 2em;
 }
